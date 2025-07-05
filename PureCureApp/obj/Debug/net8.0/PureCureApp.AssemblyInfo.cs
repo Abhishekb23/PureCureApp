@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PureCureApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a8fd004dedf8c1978d786b490dda975b3110264")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde465fc841b6e2a493e1f7e536c4b7bb4626980")]
 [assembly: System.Reflection.AssemblyProductAttribute("PureCureApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PureCureApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
