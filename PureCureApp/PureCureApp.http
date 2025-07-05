@@ -1,0 +1,6 @@
+@PureCureApp_HostAddress = http://localhost:5029
+
+GET {{PureCureApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
